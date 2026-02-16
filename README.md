@@ -77,11 +77,9 @@ Git | GitHub | Linux | VS Code
 
 ---
 
-⭐ *"Consistency beats intensity. I build, learn, and improve every day."*
----
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/sudhanshu898/sudhanshu898/output/github-contribution-grid-snake.svg)
 
-
+⭐ *"Consistency beats intensity. I build, learn, and improve every day."*
+---
