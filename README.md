@@ -52,13 +52,12 @@ Git | GitHub | Linux | VS Code
 
 ---
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu898&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-pi-nine-42.vercel.app/api?username=sudhanshu898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats-pi-nine-42.vercel.app/api/top-langs/?username=sudhanshu898&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
