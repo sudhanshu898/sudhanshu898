@@ -52,21 +52,28 @@ Git | GitHub | Linux | VS Code
 
 ---
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu898&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu898&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhashu898&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sudhanshu898&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🌍 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/sudhanshu7878  
-- 💻 GitHub: https://github.com/sudhanhsu898  
 - 📧 Email: sudhanshu952354@gmail.com  
 
 ---
