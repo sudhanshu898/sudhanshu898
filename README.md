@@ -62,7 +62,6 @@ Git | GitHub | Linux | VS Code
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu898&layout=compact&theme=tokyonight" />
 </p>
 
-
 ---
 
 ## 🌍 Connect With Me
@@ -81,6 +80,6 @@ Git | GitHub | Linux | VS Code
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/sudhanshu898/sudhanshu898/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sudhanshu898/sudhanshu898/output/github-contribution-grid-snake.svg)
 
 
