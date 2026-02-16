@@ -77,5 +77,10 @@ Git | GitHub | Linux | VS Code
 
 ## 🐍 Contribution Snake
 
+---
+
+## 🐍 Contribution Snake
+
 ![snake gif](https://github.com/sudhanshu898/sudhanshu898/blob/output/github-contribution-grid-snake.svg)
+
 
